@@ -27,3 +27,4 @@ Remove console.log
 Fix form validation
 Add success message
 Optimize bundle size
+Update footer links
