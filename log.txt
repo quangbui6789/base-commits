@@ -63,4 +63,5 @@ Update favicon
 Fix grid layout
 Add skeleton loader
 Update tailwind config
+Fix dropdown menu
 
