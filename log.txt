@@ -68,4 +68,5 @@ Add copy to clipboard
 Improve code comments
 Update .gitignore
 Add new hook
+Fix async await
 
