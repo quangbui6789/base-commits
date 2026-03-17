@@ -94,4 +94,5 @@ Update contribution guide
 Fix responsive breakpoint
 Add new badge style
 Improve form feedback
+Update license file
 
