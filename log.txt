@@ -30,3 +30,4 @@ Optimize bundle size
 Update footer links
 Add new icon set
 Fix routing issue
+Improve search filter
