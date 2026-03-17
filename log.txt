@@ -52,4 +52,5 @@ Improve form UX
 Add input mask
 Update README badge
 Fix broken link
+Add transition effect
 
