@@ -6,3 +6,4 @@ Improve error handling
 Update dependencies
 Remove unused variable
 Add input validation
+Fix mobile layout
