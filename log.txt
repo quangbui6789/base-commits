@@ -40,3 +40,4 @@ Update documentation
 Add environment config
 Fix date formatting
 Improve button styles
+Add toast notification
