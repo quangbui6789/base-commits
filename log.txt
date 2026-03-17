@@ -16,3 +16,4 @@ Add unit tests
 Update package.json
 Fix responsive design
 Add dark mode toggle
+Refactor component logic
