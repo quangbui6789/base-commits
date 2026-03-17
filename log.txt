@@ -7,3 +7,4 @@ Update dependencies
 Remove unused variable
 Add input validation
 Fix mobile layout
+Optimize image loading
