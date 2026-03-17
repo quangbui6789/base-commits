@@ -46,4 +46,5 @@ Fix navbar collapse
 Add scroll to top
 Optimize font loading
 Update analytics code
+Add new page layout
 
