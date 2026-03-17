@@ -22,3 +22,4 @@ Add type definitions
 Fix button alignment
 Improve accessibility
 Add hover effects
+Update styling variables
