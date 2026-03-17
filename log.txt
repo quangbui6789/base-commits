@@ -36,3 +36,4 @@ Update color scheme
 Fix memory leak
 Add loading state
 Refactor API service
+Update documentation
