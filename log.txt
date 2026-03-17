@@ -47,4 +47,5 @@ Add scroll to top
 Optimize font loading
 Update analytics code
 Add new page layout
+Fix table sorting
 
