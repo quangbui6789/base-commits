@@ -84,4 +84,5 @@ Fix color contrast
 Improve loading time
 Add new animation
 Update social links
+Fix import path
 
