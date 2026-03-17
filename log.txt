@@ -95,4 +95,5 @@ Fix responsive breakpoint
 Add new badge style
 Improve form feedback
 Update license file
+Add new component
 
