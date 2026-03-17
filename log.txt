@@ -34,3 +34,4 @@ Improve search filter
 Add pagination logic
 Update color scheme
 Fix memory leak
+Add loading state
