@@ -45,4 +45,5 @@ Update meta tags
 Fix navbar collapse
 Add scroll to top
 Optimize font loading
+Update analytics code
 
