@@ -33,3 +33,4 @@ Fix routing issue
 Improve search filter
 Add pagination logic
 Update color scheme
+Fix memory leak
