@@ -91,4 +91,5 @@ Update build script
 Fix edge case bug
 Add new util function
 Update contribution guide
+Fix responsive breakpoint
 
