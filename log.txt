@@ -25,3 +25,4 @@ Add hover effects
 Update styling variables
 Remove console.log
 Fix form validation
+Add success message
