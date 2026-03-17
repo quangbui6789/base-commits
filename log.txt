@@ -65,4 +65,5 @@ Add skeleton loader
 Update tailwind config
 Fix dropdown menu
 Add copy to clipboard
+Improve code comments
 
