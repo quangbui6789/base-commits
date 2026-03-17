@@ -81,4 +81,5 @@ Refactor file structure
 Update version number
 Add new feature flag
 Fix color contrast
+Improve loading time
 
