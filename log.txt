@@ -13,3 +13,4 @@ Add loading spinner
 Fix null pointer
 Improve code readability
 Add unit tests
+Update package.json
