@@ -18,3 +18,4 @@ Fix responsive design
 Add dark mode toggle
 Refactor component logic
 Update copyright year
+Add type definitions
