@@ -38,3 +38,4 @@ Add loading state
 Refactor API service
 Update documentation
 Add environment config
+Fix date formatting
