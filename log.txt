@@ -75,4 +75,5 @@ Fix spacing issue
 Add new constant
 Improve mobile menu
 Update package-lock
+Fix typo in code
 
