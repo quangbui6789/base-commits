@@ -56,4 +56,5 @@ Add transition effect
 Refactor state logic
 Update dependency versions
 Add error boundary
+Fix modal closing
 
