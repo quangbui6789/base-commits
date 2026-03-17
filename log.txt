@@ -90,4 +90,5 @@ Improve accessibility score
 Update build script
 Fix edge case bug
 Add new util function
+Update contribution guide
 
