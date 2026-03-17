@@ -86,4 +86,5 @@ Add new animation
 Update social links
 Fix import path
 Add memoization
+Improve accessibility score
 
