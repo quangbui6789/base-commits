@@ -2,3 +2,4 @@ Legendary base commit archive
 Update README content
 Refactor utils function
 Add missing import
+Improve error handling
