@@ -28,3 +28,4 @@ Fix form validation
 Add success message
 Optimize bundle size
 Update footer links
+Add new icon set
