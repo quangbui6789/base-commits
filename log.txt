@@ -59,4 +59,5 @@ Add error boundary
 Fix modal closing
 Improve performance
 Add keyboard shortcut
+Update favicon
 
