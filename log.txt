@@ -10,3 +10,4 @@ Fix mobile layout
 Optimize image loading
 Update API endpoint
 Add loading spinner
+Fix null pointer
