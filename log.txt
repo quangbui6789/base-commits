@@ -87,4 +87,5 @@ Update social links
 Fix import path
 Add memoization
 Improve accessibility score
+Update build script
 
