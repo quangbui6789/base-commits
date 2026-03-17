@@ -54,4 +54,5 @@ Update README badge
 Fix broken link
 Add transition effect
 Refactor state logic
+Update dependency versions
 
