@@ -83,4 +83,5 @@ Add new feature flag
 Fix color contrast
 Improve loading time
 Add new animation
+Update social links
 
