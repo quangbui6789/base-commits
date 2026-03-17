@@ -72,4 +72,5 @@ Fix async await
 Add debounce function
 Update README image
 Fix spacing issue
+Add new constant
 
