@@ -60,4 +60,5 @@ Fix modal closing
 Improve performance
 Add keyboard shortcut
 Update favicon
+Fix grid layout
 
