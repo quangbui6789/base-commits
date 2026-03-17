@@ -19,3 +19,4 @@ Add dark mode toggle
 Refactor component logic
 Update copyright year
 Add type definitions
+Fix button alignment
