@@ -97,4 +97,4 @@ Improve form feedback
 Update license file
 Add new component
 Fix small UI glitch
-
+Add README section
