@@ -15,3 +15,4 @@ Improve code readability
 Add unit tests
 Update package.json
 Fix responsive design
+Add dark mode toggle
