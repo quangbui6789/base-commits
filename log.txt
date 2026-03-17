@@ -23,3 +23,4 @@ Fix button alignment
 Improve accessibility
 Add hover effects
 Update styling variables
+Remove console.log
