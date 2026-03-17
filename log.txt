@@ -92,4 +92,5 @@ Fix edge case bug
 Add new util function
 Update contribution guide
 Fix responsive breakpoint
+Add new badge style
 
