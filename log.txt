@@ -32,3 +32,4 @@ Add new icon set
 Fix routing issue
 Improve search filter
 Add pagination logic
+Update color scheme
