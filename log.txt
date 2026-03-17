@@ -69,4 +69,5 @@ Improve code comments
 Update .gitignore
 Add new hook
 Fix async await
+Add debounce function
 
