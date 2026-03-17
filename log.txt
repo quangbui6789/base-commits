@@ -42,3 +42,6 @@ Fix date formatting
 Improve button styles
 Add toast notification
 Update meta tags
+Fix navbar collapse
+Add scroll to top
+
